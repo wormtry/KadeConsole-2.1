@@ -1,0 +1,29 @@
+{
+  "Id": "cyberpunk",
+  "Name": "Cyberpunk",
+  "Description": "Neon yellow & pink on deep violet-black",
+  "IsBuiltIn": true,
+  "WindowBackground": "#0D0221",
+  "TabBarBackground": "#150733",
+  "TabBackground": "#1C0B3E",
+  "TabBackgroundActive": "#0D0221",
+  "TabForeground": "#8F7BB5",
+  "TabForegroundActive": "#F2E9FF",
+  "Accent": "#F9C80E",
+  "AccentSecondary": "#FF2E63",
+  "TerminalBackground": "#0D0221",
+  "TerminalForeground": "#E9E4F5",
+  "TerminalPrompt": "#F9C80E",
+  "StatusBarBackground": "#08011A",
+  "StatusForeground": "#6F5F93",
+  "BorderColor": "#2A1555",
+  "Error": "#FF2E63",
+  "Warning": "#F9C80E",
+  "Success": "#4DFFA6",
+  "AnsiColors": [
+    "#0D0221", "#FF2E63", "#4DFFA6", "#F9C80E",
+    "#5BC0EB", "#C874F9", "#41EAD4", "#E9E4F5",
+    "#6F5F93", "#FF6E8E", "#7DFFBC", "#FFD96A",
+    "#8FCAFF", "#DBA5FF", "#7FF2E4", "#FFFFFF"
+  ]
+}

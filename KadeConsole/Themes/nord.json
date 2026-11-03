@@ -1,0 +1,29 @@
+{
+  "Id": "nord",
+  "Name": "Nord",
+  "Description": "Cool arctic blues and fjord grays",
+  "IsBuiltIn": true,
+  "WindowBackground": "#2E3440",
+  "TabBarBackground": "#333B4A",
+  "TabBackground": "#3B4252",
+  "TabBackgroundActive": "#2E3440",
+  "TabForeground": "#7B88A1",
+  "TabForegroundActive": "#ECEFF4",
+  "Accent": "#88C0D0",
+  "AccentSecondary": "#B48EAD",
+  "TerminalBackground": "#2E3440",
+  "TerminalForeground": "#E5E9F0",
+  "TerminalPrompt": "#88C0D0",
+  "StatusBarBackground": "#272C36",
+  "StatusForeground": "#616E88",
+  "BorderColor": "#434C5E",
+  "Error": "#BF616A",
+  "Warning": "#EBCB8B",
+  "Success": "#A3BE8C",
+  "AnsiColors": [
+    "#3B4252", "#BF616A", "#A3BE8C", "#EBCB8B",
+    "#81A1C1", "#B48EAD", "#88C0D0", "#E5E9F0",
+    "#4C566A", "#D08770", "#B5E8A0", "#F2E3A6",
+    "#A9C6E8", "#C7A7D8", "#A5DEE8", "#F8FAFC"
+  ]
+}

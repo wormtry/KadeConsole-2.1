@@ -1,0 +1,29 @@
+{
+  "Id": "dju",
+  "Name": "Gju",
+  "Description": "Dark IDE-inspired neon theme",
+  "IsBuiltIn": true,
+  "WindowBackground": "#0E0E10",
+  "TabBarBackground": "#161618",
+  "TabBackground": "#1E1E22",
+  "TabBackgroundActive": "#0E0E10",
+  "TabForeground": "#9CA3AF",
+  "TabForegroundActive": "#E6E6E6",
+  "Accent": "#00E5FF",
+  "AccentSecondary": "#FF2D95",
+  "TerminalBackground": "#0E0E10",
+  "TerminalForeground": "#E6E6E6",
+  "TerminalPrompt": "#00E5FF",
+  "StatusBarBackground": "#0A0A0C",
+  "StatusForeground": "#6B7280",
+  "BorderColor": "#2A2A2E",
+  "Error": "#FF5555",
+  "Warning": "#FFB86C",
+  "Success": "#50FA7B",
+  "AnsiColors": [
+    "#1A1A1E", "#FF5555", "#50FA7B", "#F1FA8C",
+    "#BD93F9", "#FF79C6", "#00E5FF", "#BFBFBF",
+    "#5A5A5E", "#FF6E6E", "#69FF94", "#FFFFA5",
+    "#D6B6FF", "#FF92DF", "#A5F2FF", "#FFFFFF"
+  ]
+}

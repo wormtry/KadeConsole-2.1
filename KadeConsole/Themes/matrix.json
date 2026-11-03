@@ -1,0 +1,29 @@
+{
+  "Id": "matrix",
+  "Name": "Retro Matrix",
+  "Description": "Classic green-on-black terminal",
+  "IsBuiltIn": true,
+  "WindowBackground": "#000000",
+  "TabBarBackground": "#040A04",
+  "TabBackground": "#0E1A0E",
+  "TabBackgroundActive": "#000000",
+  "TabForeground": "#3A8B3A",
+  "TabForegroundActive": "#5FFF5F",
+  "Accent": "#00FF00",
+  "AccentSecondary": "#00AA00",
+  "TerminalBackground": "#000000",
+  "TerminalForeground": "#5FFF5F",
+  "TerminalPrompt": "#00FF00",
+  "StatusBarBackground": "#000000",
+  "StatusForeground": "#2A6B2A",
+  "BorderColor": "#1A3A1A",
+  "Error": "#FF3030",
+  "Warning": "#FFFF00",
+  "Success": "#00FF00",
+  "AnsiColors": [
+    "#000000", "#FF3030", "#00FF00", "#FFFF00",
+    "#00AA00", "#FF00FF", "#00FFFF", "#FFFFFF",
+    "#5A5A5A", "#FF6060", "#5FFF5F", "#FFFF60",
+    "#60A560", "#FF60FF", "#60FFFF", "#FFFFFF"
+  ]
+}

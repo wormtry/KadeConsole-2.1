@@ -1,0 +1,29 @@
+{
+  "Id": "daybreak",
+  "Name": "Daybreak",
+  "Description": "Light theme — warm paper with vivid blue accents",
+  "IsBuiltIn": true,
+  "WindowBackground": "#F4F2ED",
+  "TabBarBackground": "#ECE9E2",
+  "TabBackground": "#E2DFD7",
+  "TabBackgroundActive": "#F4F2ED",
+  "TabForeground": "#6B7280",
+  "TabForegroundActive": "#26242B",
+  "Accent": "#2563EB",
+  "AccentSecondary": "#DB2777",
+  "TerminalBackground": "#FBFAF7",
+  "TerminalForeground": "#26242B",
+  "TerminalPrompt": "#2563EB",
+  "StatusBarBackground": "#E8E5DE",
+  "StatusForeground": "#8A877E",
+  "BorderColor": "#D5D1C6",
+  "Error": "#DC2626",
+  "Warning": "#D97706",
+  "Success": "#059669",
+  "AnsiColors": [
+    "#3B3A38", "#B91C1C", "#15803D", "#A16207",
+    "#1D4ED8", "#A21CAF", "#0E7490", "#57534E",
+    "#6B7280", "#DC2626", "#16A34A", "#D97706",
+    "#2563EB", "#DB2777", "#0891B2", "#1C1917"
+  ]
+}

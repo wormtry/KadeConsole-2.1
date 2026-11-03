@@ -1,0 +1,29 @@
+{
+  "Id": "oranges",
+  "Name": "Oranges",
+  "Description": "Minimalist dark terminal — orange accents on black",
+  "IsBuiltIn": true,
+  "WindowBackground": "#000000",
+  "TabBarBackground": "#0A0A0A",
+  "TabBackground": "#141414",
+  "TabBackgroundActive": "#000000",
+  "TabForeground": "#808080",
+  "TabForegroundActive": "#FFFFFF",
+  "Accent": "#FF8C42",
+  "AccentSecondary": "#FFB86C",
+  "TerminalBackground": "#000000",
+  "TerminalForeground": "#E8E8E8",
+  "TerminalPrompt": "#FF8C42",
+  "StatusBarBackground": "#000000",
+  "StatusForeground": "#666666",
+  "BorderColor": "#1F1F1F",
+  "Error": "#FF5555",
+  "Warning": "#FFB86C",
+  "Success": "#7DD3A0",
+  "AnsiColors": [
+    "#000000", "#FF5555", "#7DD3A0", "#FFB86C",
+    "#8AB4D8", "#C792EA", "#82AAFF", "#EEEEEE",
+    "#545454", "#FF8E8E", "#A5FFA5", "#FFD38A",
+    "#A5C8FF", "#D9A5FF", "#A5D8FF", "#FFFFFF"
+  ]
+}
